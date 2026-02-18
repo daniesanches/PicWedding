@@ -56,8 +56,6 @@
       ]
     }
   ],
-  "images": {
-    "minimumCacheTTL": 31536000
-  },
+
   "regions": ["southamerica-east1"]
 }
